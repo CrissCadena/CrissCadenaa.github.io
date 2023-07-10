@@ -1,0 +1,129 @@
+  /*Cristina Fernanda Martínez Cadena. 405 .NET */ 
+h1{color:rgba(131, 16, 14, 0.815);
+    position: center;
+font-style:unset;}
+
+body{
+    background-color:rgb(236, 219, 234);}
+
+
+hr{
+    color: rgb(255, 255, 255); }
+
+    p{ font-size: 20px;
+        color: black;
+    margin-left: 20px;
+    margin-right: 20px;}
+    div{
+        height: 120px;
+        width: 80%; 
+        margin-left: 130px; 
+        float: left;
+      text-align: center;
+       font-size: 20px; 
+        padding:20px; 
+        margin-top: 20px;
+        background-color: rgba(231, 97, 35, 0.801);  
+        border:2px solid #e6540000;
+       
+     }
+     .Cuadro1{
+        height: 100px;
+        width: 200px;
+        margin-left: 400px ;
+        float: left;
+        text-align: center ;
+        padding: 20px;
+        margin-top: 20px;
+        background: white;
+         }
+         .cuadro2{
+            color: rgb(10, 9, 9);
+            font-size: 20px;
+            margin-top: 30px;
+            height: 250px;
+            width: 180px;
+        margin-left: 90px;
+        float: left;
+        border-radius: 0 20px 20px 0;}
+
+        .titulo1{color: rgb(0, 0, 0);}
+        
+    .cuadro3{
+        height: 120px;
+        width: 80%; 
+        margin-left: 130px; 
+        float: left;
+      text-align: center;
+       font-size: 20px; 
+        padding:20px;  
+        margin-top: 20px;
+        background-color: rgba(74, 138, 211, 0.801);  
+        border:2px solid #0000;}
+
+    .cuadro4{
+        background-color:rgba(74, 138, 211, 0.801) ;
+        color: rgb(10, 9, 9);
+        font-size: 20px;
+        margin-top: 30px;
+        height: 250px;
+        width: 180px;
+    margin-left: 90px;
+    float: left;
+    border-radius: 0 20px 20px 0;}
+
+    .cuadro5{
+        height: 120px;
+        width: 100; 
+        margin-left: 130px; 
+        float: left;
+      text-align: center;
+       font-size: 20px; 
+        padding:20px;  
+        margin-top: 20px;
+        background-color: rgba(35, 173, 47, 0.801);  
+        border:2px solid #0000;}
+
+        .cuadro7{
+            background-color: rgba(35, 173, 47, 0.801) ;
+            color: rgb(10, 9, 9);
+            font-size: 20px;
+            margin-top: 30px;
+            height: 250px;
+            width: 180px;
+        margin-left: 90px;
+        float: left;
+        border-radius: 0 20px 20px 0;}
+
+        .cuadro8{
+            height: 120px;
+        width: 100; 
+        margin-left: 130px; 
+        float: left;
+      text-align: center;
+       font-size: 20px; 
+        padding:20px;  
+        margin-top: 20px;
+        background-color: rgba(118, 134, 120, 0.801);  
+        border:2px solid #0000;}
+    
+        .cuadro9{
+            background-color: rgba(136, 145, 136, 0.801) ;
+            color: rgb(10, 9, 9);
+            font-size: 20px;
+            margin-top: 30px;
+            height: 250px;
+            width: 180px;
+        margin-left: 90px;
+        float: left;
+        border-radius: 0 20px 20px 0;}
+        
+        dialog::backdrop {
+            background: rgba(194, 230, 236, 0.9);
+          }
+
+        ul{
+            list-style: none;
+        }
+
+        /*Cristina Fernanda Martínez Cadena. 405 .NET */ 
